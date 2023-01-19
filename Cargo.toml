@@ -1,0 +1,12 @@
+[workspace]
+members = ["va-sys"]
+
+[package]
+name = "avarice"
+version = "0.1.0"
+edition = "2021"
+description = "package name reserved for libva bindings"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
